@@ -9,7 +9,7 @@ uv run --with jupyterlab jupyter lab cheltenham_similarity.ipynb
 
 ## Files
 
-- `cheltenham_similarity.ipynb`: main walkthrough notebook.
+- `cheltenham_similarity.ipynb`: main walkthrough notebook -- you are probably looking for this.
 - `aurn_no2_embeddings.py`: minimal AURN and TESSERA patch helpers.
 - `data/aurn_no2_2023.csv`: cached 2023 UK AURN NO2 sites (`148` rows).
 - `data/cheltenham_grid_2023.npz`: cached 10 m Cheltenham similarity grid (`353,064` pixels).
