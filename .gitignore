@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Excluded from git (>100 MB GitHub limit); auto-downloaded if missing.
+data/patches_640m_*.npz

@@ -1,0 +1,18 @@
+[project]
+name = "cheltenham-studies"
+version = "0.1.0"
+description = "Search 10 m TESSERA Earth embeddings near Cheltenham for high-NO2-like road corridors."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "contextily>=1.7",
+    "folium>=1.0",
+    "geopandas>=1.0",
+    "geotessera>=0.11.1",
+    "ipywidgets>=8.1",
+    "matplotlib>=3.10",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "pyaurn>=0.1.21",
+    "rasterio>=1.4",
+]
