@@ -1,7 +1,5 @@
 # Cheltenham Road-Corridor Search (TESSERA + AURN)
 
-This folder isolates `cheltenham_similarity.ipynb` and its minimal helpers.
-
 ## Quick start
 
 ```bash
